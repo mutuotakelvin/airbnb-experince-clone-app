@@ -5,7 +5,7 @@ class Navbar extends Component {
     render() {
         return (
             <nav>
-                <img src={navImg} alt='airbnb logo'/>
+                <img className='nav--logo' src={navImg} alt='airbnb logo'/>
             </nav>
         );
     }
