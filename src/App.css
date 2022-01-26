@@ -43,6 +43,7 @@
 
 body{
   margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
 nav{
@@ -54,4 +55,12 @@ nav{
 
 .nav--logo{
   max-width: 100%;
+}
+
+.hero--header{
+  margin-bottom: 16px;
+}
+
+.hero--text{
+  margin-bottom: 0;
 }
